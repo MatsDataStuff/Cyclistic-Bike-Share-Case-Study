@@ -149,7 +149,7 @@ ORDER BY month;
 
 ### 5. Share
 
-**[View Interactive Tableau Dashboard](#)** ← *(replace with your Tableau Public link)*
+**[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/mathew.marrero.ahmad/viz/CyclisticBike-ShareAnalysis-MathewMarrero/Dashboard1?publish=yes)**
 
 #### Key Findings
 

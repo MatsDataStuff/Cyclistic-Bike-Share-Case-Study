@@ -1,12 +1,12 @@
 # Cyclistic Bike-Share Case Study
 ### Google Data Analytics Professional Certificate — Capstone Project
 
-## 📝 Introduction
+## Introduction
 The **Cyclistic Bike-Share Case Study** is a capstone project for the **Google Data Analytics Professional Certificate**. Following the data analysis process — **Ask, Prepare, Process, Analyze, Share, and Act** — this project analyzes real-world bike-share data to develop marketing strategies aimed at converting casual riders into annual members.
 
 ---
 
-## 💬 Background
+## Background
 Cyclistic is a bike-share company based in Chicago with a fleet of 5,824 bicycles across 692 geotracked stations. Customers can rent bikes from one station and return them to any other station in the network at their convenience.
 
 Cyclistic offers three pricing plans: single-ride passes, full-day passes, and annual memberships. Customers who purchase single-ride or full-day passes are referred to as **casual riders**, while customers who purchase annual memberships are **Cyclistic members**.
@@ -15,7 +15,7 @@ The company's finance team has concluded that annual members are significantly m
 
 ---
 
-## ⚙️ Approach
+## Approach
 
 ### 1. Ask
 **Business Task:** Analyze how annual members and casual riders use Cyclistic bikes differently in order to design data-driven marketing strategies that convert casual riders into annual members.
@@ -26,7 +26,7 @@ The company's finance team has concluded that annual members are significantly m
 
 ### 2. Prepare
 
-#### 🔗 Data Source
+#### Data Source
 - **Source:** [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
 - **Period:** May 2025 – April 2026 (12 months)
 - **License:** Made available by Motivate International Inc.
@@ -149,7 +149,7 @@ ORDER BY month;
 
 ### 5. Share
 
-📊 **[View Interactive Tableau Dashboard](#)** ← *(replace with your Tableau Public link)*
+**[View Interactive Tableau Dashboard](#)** ← *(replace with your Tableau Public link)*
 
 #### Key Findings
 
@@ -186,7 +186,7 @@ ORDER BY month;
 
 ### 6. Act
 
-#### 🎯 Top 3 Recommendations
+#### Top 3 Recommendations
 
 **1. Weekend Membership Campaign**
 Casual riders are most active on weekends. Target them with in-app prompts and social media ads on Fridays and Saturdays offering a discounted annual membership. The pitch: *"You're already riding every weekend — a membership pays for itself."*
@@ -199,12 +199,12 @@ Since casuals average 22 minutes per trip, they are likely paying significantly 
 
 ---
 
-## 🔮 Conclusion
+## Conclusion
 This analysis reveals that casual riders and members use Cyclistic bikes for fundamentally different purposes — members for daily commuting and casuals for weekend leisure. With 1.3 million casual riders already engaged with the platform, there is a significant opportunity to convert them into members through targeted weekend campaigns, seasonal promotions, and clear cost-value messaging.
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 | File | Description |
 |------|-------------|
 | `clean.py` | Python script for data cleaning and processing |
